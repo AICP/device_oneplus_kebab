@@ -6,6 +6,6 @@
 <resources>
 
     <!-- Fingerprint from stock ROM -->
-    <string name="config_stockFingerprint" translatable="false">OnePlus/OnePlus8T/OnePlus8T:13/RKQ1.211119.001/R.c9b6f1_9-1db5a:user/release-keys</string>
+    <string name="config_stockFingerprint" translatable="false">OnePlus/OnePlus8T/OnePlus8T:13/RKQ1.211119.001/R.d81a34_19a89_3:user/release-keys</string>
 
 </resources>
