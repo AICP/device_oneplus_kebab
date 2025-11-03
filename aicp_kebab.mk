@@ -30,3 +30,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=OnePlus8T \
     SystemDevice=OnePlus8T \
     SystemName=OnePlus8T
+
+# AICP Device Maintainers
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    DEVICE_MAINTAINERS="Julian Veit (Claymore1297)"
+
